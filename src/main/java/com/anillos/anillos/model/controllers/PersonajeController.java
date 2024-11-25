@@ -17,6 +17,7 @@ import com.anillos.anillos.model.entities.Posesion;
 import com.anillos.anillos.model.services.implementations.PersonajeService;
 import com.anillos.anillos.model.services.implementations.PosesionService;
 
+
 @RestController
 @RequestMapping("/personajes")
 public class PersonajeController {
