@@ -51,4 +51,5 @@ public void guardarPersonajeConArtefacto(@RequestBody Personaje personaje) {
     }
 }
 
+
 }
