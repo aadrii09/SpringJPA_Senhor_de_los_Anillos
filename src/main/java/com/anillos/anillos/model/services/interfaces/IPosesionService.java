@@ -12,4 +12,6 @@ public interface IPosesionService {
 
     public Posesion findById(Integer id);
 
+    public void save(Posesion posesion);
+
 }
